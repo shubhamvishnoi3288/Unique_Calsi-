@@ -6,11 +6,13 @@ Why use it?
     Its useful for simple calculations.
 
 Features
+
     Add
     Multiply
     Subtract
     Divide
 Built With
+
     Html
     Css
     Javascript
