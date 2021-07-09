@@ -19,5 +19,5 @@ Built With
     Javascript
     J-query
 How to Run?
-    To run my application you simply need to clone the project and run the html file.
+     To run my application you simply need to clone the project and run the html file.
     ![Screenshot (125)](https://user-images.githubusercontent.com/65655892/124733799-63daab80-dec9-11eb-906b-ba0d9d1387f3.png)
