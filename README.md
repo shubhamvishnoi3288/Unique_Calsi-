@@ -1,4 +1,4 @@
-# Unique_Calsi-
+# Unique_Calsi
 https://shubhamvishnoi3288.github.io/Unique_Calsi-/
 
       A simple Calculator for general purposes.
