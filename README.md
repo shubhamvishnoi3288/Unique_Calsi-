@@ -2,7 +2,7 @@
    https://shubhamvishnoi3288.github.io/Unique_Calsi-/
 
       A simple Calculator for general purposes.
-   
+                           
 Why use it?
     Its useful for simple calculations.
 
