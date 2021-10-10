@@ -6,7 +6,7 @@
 Why use it?
     Its useful for simple calculations.
 
-Features
+Features          
 
     Add
     Multiply
